@@ -34,3 +34,7 @@ transformed into a twisted creature. In their new
 form, they became known as Kurghal.
 Tiamat afraid of the power Kurghal
 attained, retreated back into the nine hells.
+
+The next part of the myth is not very clear to me, it
+differs per region of the world, and there is no concise
+series of events, but it does all end in the same way.
