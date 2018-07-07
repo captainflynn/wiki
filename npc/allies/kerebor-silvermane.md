@@ -21,4 +21,6 @@ Distinguishing features: Short beard
 TBD
 # Background
 TBD
+# Current
+Kerebor is currently traped in Fenthras and is keeping up the shield.
 # Other information
