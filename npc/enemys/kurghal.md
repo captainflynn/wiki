@@ -38,3 +38,15 @@ attained, retreated back into the nine hells.
 The next part of the myth is not very clear to me, it
 differs per region of the world, and there is no concise
 series of events, but it does all end in the same way.
+
+> The All-father together with Bahamut and the
+seven metallic dragons, sealed Kurghal
+away within the void.
+
+As I understand from other texts the void is not a
+realm like Oraxis or the Feywild it is more like a barrier
+protecting the inner realms from the outer realms.
+I also found some information about the spawn of the
+Kurghal, referred to as the Kurahnu, their bodies
+were supposedly sealed away within the ground and
+their spirits in the sky.
