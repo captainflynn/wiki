@@ -5,7 +5,8 @@
 TBD
 # Background
 TBD
-# Origin
+# Other information
+## Origins of Kurghal and the seven guardians
 In my research to the draconic pantheon, I have found an interesting part of their creation myth. It speaks of an ancient evil that almost destroyed our world. But was stopped by seven guardians.
 When the All-father created Oraxis he tasked Bahamut to create guardians to protect the realm. And so Bahamut created seven metallic dragons from the metals of Oraxis.
 
