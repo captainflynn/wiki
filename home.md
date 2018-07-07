@@ -1,4 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Oraxis -->
+<!-- SUBTITLE: All documentation for Oraxis -->
 
-# Header
+# Oraxis
+Welcome to the homepage
